@@ -6,7 +6,7 @@ import "../styles/globals.css";
 // Change this to the chain your app is built for.
 // You can also import additional chains from `@thirdweb-dev/chains` and pass them directly.
 const activeChain = "ethereum";
-const clientId = '62b4f24deff5b80bf045e7d97d9568e4';
+const clientId = 'Use your client id here';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
